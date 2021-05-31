@@ -62,7 +62,7 @@ generatecustomthumbnail - Generate customer thumbnail
 generatescss - Get Screenshot of Telegram Media
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+- For FeedBack and Suggestions, please feel free to say in [@SpEcHlDe](https://telegram.dog/TeleRoid14)
 
 #### LICENSE
 - GPLv3
