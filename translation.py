@@ -1,19 +1,19 @@
 class Translation:
-    START_TEXT = """This is an @AnyDLBot clone created using the Open Source code available.
-Source Code: https://github.com/SpEcHiDe/AnyDLBot
-© @AnyDLBot"""
+    START_TEXT = """𝗧𝗛𝗜𝗦 𝗜𝗦 𝗔𝗡 𝗔𝗡𝗬𝗗𝗟 + 𝗪𝗘𝗕𝗗𝗟 + 𝗨𝗥𝗟 𝗩𝟮 𝗨𝗣𝗟𝗢𝗗𝗘𝗥 𝗕𝗢𝗧 𝗜 𝗖𝗔𝗡 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 𝗔𝗟𝗟 𝗟𝗜𝗡𝗞𝗦 𝗔𝗡𝗗 𝗨𝗣𝗟𝗢𝗔𝗗 𝗧𝗢 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗪𝗜𝗧𝗛 𝗣𝗘𝗥𝗠𝗔𝗡𝗘𝗡𝗧 𝗧𝗛𝗨𝗠𝗕𝗡𝗔𝗜𝗟 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗔𝗡𝗗 𝗠𝗢𝗥𝗘 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘.
+Source Code: https://t.me/KOT_SOURCE_CODE 𝗧𝗬𝗣𝗘 /help [ 𝗗𝗘𝗩 : @KOT_FREE_DE_LA_HOYA_OFF
+© @KOT_AnyDL_X_Bot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "This is an @AnyDLBot clone created using the Open Source <a href='https://github.com/SpEcHiDe/AnyDLBot'>code</a>. \nStart @AnyDLBot to know Paid Plans!"
+    UPGRADE_TEXT = "This is an @KOT_AnyDL_X_Bot clone created using the Open Source <a href='https://t.me/KOT_SOURCE_CODE'>code</a>. \nStart @KOT_AnyDL_X_Bot to know Paid Plans!"
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    NOYES_URL = "@KOT_AnyDL_X_Bot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. https://t.me/KOT_AnyDL_X_Bot?start=anydl_bot-bot"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nPlease rate me if you find me useful. https://t.me/tlgrmcbot?start=anydl_bot-bot \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
@@ -28,18 +28,18 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/SpEcHlDe/599'>{}</a>
+Plan name: <a href='https://t.me/KOT_BOTS'>{}</a>
 Expires on: {}"""
     HELP_USER = """There are multiple things I can do:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Streamable Video, any Telegram file</a>
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
-👉 <a href="https://t.me/SpEcHlDe/610">ReName Telegram files, with custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/625">Generate Custom Thumbnail by sending two photos in a Media Album</a>
-👉 <a href="https://t.me/SpEcHlDe/653">Trim large videos</a>, and <a href="https://t.me/SpEcHlDe/652">Take Screenshots</a> of Telegram media files.
-👉 <a href="https://t.me/SpEcHlDe/657">Extract compressed Telegram media</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
+👉 <a href="https://t.me/KOT_BOTS">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
+👉 <a href="https://t.me/KOT_BOTS">Upload as file from any HTTP link, with custom thumbnail support</a>
+👉 <a href="https://t.me/KOT_BOTS">Convert To Streamable Video, any Telegram file</a>
+👉 <a href="https://t.me/KOT_BOTS">Convert To Telegram Audio, the media sent as Telegram Documents</a>
+👉 <a href="https://t.me/KOT_BOTS">ReName Telegram files, with custom thumbnail support</a>
+👉 <a href="https://t.me/KOT_BOTS">Generate Custom Thumbnail by sending two photos in a Media Album</a>
+👉 <a href="https://t.me/KOT_BOTS">Trim large videos</a>, and <a href="https://t.me/SpEcHlDe/652">Take Screenshots</a> of Telegram media files.
+👉 <a href="https://t.me/KOT_BOTS">Extract compressed Telegram media</a>
+👉 <a href="https://t.me/KOT_BOTS">Get a Telegram sticker as a Telegram downloadable media</a>
 --------
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
@@ -74,7 +74,7 @@ Free users only 1 request per 30 minutes.
 The given file name has {num} characters.
 
 <b>Essays Not allowed in Telegram file name!</b>
-©️ <code>@ReNameBot</code>
+©️ <code>@KOT_AnyDL_X_Bot</code>
 Please short your file name and try again!"""
     YTDL_ERROR_MESSAGE = (
         "please report this issue on https://yt-dl.org/bug . "
